@@ -96,7 +96,4 @@ Alright, let's talk security, my fellow coders. Here's how we could've locked th
 
 ---
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just published Disrupting the Codenames Game: A Developer’s Tale <a href="https://t.co/aeBEq0Cm25">https://t.co/aeBEq0Cm25</a></p>&mdash; muditbisht (@muditsinghbisht) <a href="https://twitter.com/muditsinghbisht/status/1693184622061113416?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNoobi7uke%2Fposts%2Fpfbid0s5DEZY4wUbUwz2W6nDCTNn4EQuPjMAwnaq2bZBHjw75dcKWcoskfLcNM4BrVZ8ZQl&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+Big shout-out to Chat-GPT for helping me refactor above blog.
