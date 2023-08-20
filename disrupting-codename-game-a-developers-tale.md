@@ -1,5 +1,7 @@
 # Disrupting the Codenames Game: A Developer's Tale
 
+[Medium ](https://medium.com/@muditbisht/disrupting-the-codenames-game-a-developers-tale-7ef13db20c47) | [Github ](https://github.com/muditbisht/tech-blogs/blob/main/disrupting-codename-game-a-developers-tale.md) | [Twitter ](https://twitter.com/muditsinghbisht/status/1693184622061113416) | [Linkedin ](https://www.linkedin.com/feed/update/urn:li:share:7098952552754397184/) | [Facebook](https://www.facebook.com/Noobi7uke/posts/pfbid0s5DEZY4wUbUwz2W6nDCTNn4EQuPjMAwnaq2bZBHjw75dcKWcoskfLcNM4BrVZ8ZQl)
+
 During one of our team's enjoyable Friday meetings while we were working remotely, we decided to engage in a game of Codenames. The game uses a 5x5 grid with 8 blue, 8 red, 8 beige, and 1 black words. Blue and red are team colors, beige is neutral, and black is the game-ending color, but only Spymasters know this. Spymasters give single-word clues to guide their team to their color words. The goal is for a team to guess all their words except black, which causes instant loss.
 
 Usually, the game relies on the Spymasters' abilities, but not when you're a developer. Here's how I manipulated network calls to disrupt the game.
@@ -93,6 +95,8 @@ Alright, let's talk security, my fellow coders. Here's how we could've locked th
 2. On the flip side, think about this: why not encrypt that raw JSON data for 'coverCard' types and only give the decryption key to our trusty Spymasters? I mean, it sounds pretty cool, right? But here's the kicker: you'd end up encrypting and decrypting stuff, which adds complexity. Plus, you'd still be sending that encrypted data to, like, 80% of our clients who don't need it. Oh, and don't forget, you'd have to do extra processing to figure out who's who before encrypting. Honestly, not the most server-friendly move, if you ask me.
 
 ---
-[Medium link](https://medium.com/@muditbisht/disrupting-the-codenames-game-a-developers-tale-7ef13db20c47) | [Github link](https://github.com/muditbisht/tech-blogs/blob/main/disrupting-codename-game-a-developers-tale.md) | [Twitter Link](https://twitter.com/muditsinghbisht/status/1693184622061113416)
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I just published Disrupting the Codenames Game: A Developer’s Tale <a href="https://t.co/aeBEq0Cm25">https://t.co/aeBEq0Cm25</a></p>&mdash; muditbisht (@muditsinghbisht) <a href="https://twitter.com/muditsinghbisht/status/1693184622061113416?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNoobi7uke%2Fposts%2Fpfbid0s5DEZY4wUbUwz2W6nDCTNn4EQuPjMAwnaq2bZBHjw75dcKWcoskfLcNM4BrVZ8ZQl&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
